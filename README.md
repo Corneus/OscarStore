@@ -31,10 +31,10 @@ Working on the repository:
     
 2) Install Oscar and its dependencies
 
-    source /usr/local/bin/virtualenvwrapper.sh
-    mkvirtualenv oscar
-    pip install django-oscar
+    make sandbox
 
-3)  
+3) Run server
+    
+    /sites/sandbox/manage.py runserver
     
 
