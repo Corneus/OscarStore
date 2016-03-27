@@ -17,6 +17,10 @@ Prerequisites:
 
     sudo pip install virtualenvwrapper
     
+5) Install PIL (python imaging library) with JPEG support
+
+    brew install libjpeg
+    sudo pip install pillow 
     
 Working on the repository:
 
