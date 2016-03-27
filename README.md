@@ -2,7 +2,7 @@
 E-Commerce store built with Django Oscar framework
 
 Prerequisites:
-1) Install git 
+1) Install git
 2) Install pip
     sudo easy_install pip
     
