@@ -31,10 +31,11 @@ Working on the repository:
     
 2) Install Oscar and its dependencies
 
+    mkvirtualenv oscar
     make sandbox
 
 3) Run server
-    
+
     /sites/sandbox/manage.py runserver
     
 
